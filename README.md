@@ -10,7 +10,7 @@
 - [Bashscript](/bashscript.md)
 - [Git](/Git.md)
 ## Проекты
-[Аренда VR-Гарнитуры](https://github.com/RsD1g/MySite/)
-[Гитхаб - Портфолио](https://github.com/RsD1g/GitHubPortfolio/)
+- [Аренда VR-Гарнитуры](https://github.com/RsD1g/MySite/)
+- [Гитхаб - Портфолио](https://github.com/RsD1g/GitHubPortfolio/)
 ## Репозиторий Преподавателя
 https://github.com/rurewa/imfua
