@@ -11,6 +11,6 @@
 - [Git](/Git.md)
 ## Проекты
 - [Аренда VR-Гарнитуры{Индивидуальная}](https://github.com/RsD1g/MySite/)
-- [Гитхаб - Портфолио{Групповая}](https://github.com/RsD1g/GitHubPortfolio/)
+- [Гитхаб - Портфолио{Не Готово}](https://github.com/RsD1g/GitHubPortfolio/)
 ## Репозиторий Преподавателя
 https://github.com/rurewa/imfua
