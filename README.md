@@ -10,3 +10,4 @@
 - [Mermaid Задание](https://github.com/RsD1g/Main/blob/Operating-Systems-and-Environments/mermaid_task.md)
 - [Docker](https://github.com/RsD1g/Main/blob/Operating-Systems-and-Environments/docker.md)
 - [Shell](https://github.com/RsD1g/Main/blob/Operating-Systems-and-Environments/shell.md)
+- [Ollama](https://github.com/RsD1g/Main/blob/Operating-Systems-and-Environments/Ollama.md)
