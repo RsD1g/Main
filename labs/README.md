@@ -1,2 +1,2 @@
 ## Навигация
-[Nginx](https://github.com/RsD1g/Main/blob/Operating-Systems-and-Environments/labs/Nginx.md)
+[Nginx](https://github.com/RsD1g/Main/tree/Operating-Systems-and-Environments/labs/task1)
