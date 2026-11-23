@@ -11,3 +11,5 @@
 - [Docker](https://github.com/RsD1g/Main/blob/Operating-Systems-and-Environments/docker.md)
 - [Shell](https://github.com/RsD1g/Main/blob/Operating-Systems-and-Environments/shell.md)
 - [Ollama](https://github.com/RsD1g/Main/blob/Operating-Systems-and-Environments/Ollama.md)
+
+## Лабораторные
