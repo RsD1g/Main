@@ -13,3 +13,4 @@
 - [Ollama](https://github.com/RsD1g/Main/blob/Operating-Systems-and-Environments/Ollama.md)
 
 ## Лабораторные
+[Переход](https://github.com/RsD1g/Main/tree/Operating-Systems-and-Environments/labs)
